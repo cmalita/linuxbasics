@@ -1,6 +1,6 @@
 #!/bin/bash
 #Variables
-username="student"
+username="gigi"
 pass="student"
 
 #Add user
