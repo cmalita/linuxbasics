@@ -1,7 +1,7 @@
 #!/bin/bash
 #Variables
 username="student"
-password="student"
+pass="student"
 
 #Add user
 useradd ${username}
